@@ -21,7 +21,7 @@ si te distraes, te destruiran antes que puedas hacer algo y cuidado con el camin
 
 ## Construido con 
 
-* [Unity 3D](https://unity.com/) 
+* [Unity 2018.4.12f1](https://unity.com/) 
 
 ## Autores
 
