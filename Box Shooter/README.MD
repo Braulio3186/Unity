@@ -23,7 +23,7 @@ El nivel es algo mas complicado hay 10 objetivos y tienes 10 disparos y un limit
 
 * [Unity 3D](https://unity.com/)
 
-## Autor
+## Autores
 
 * **Braulio Villalba** 
 
